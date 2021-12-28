@@ -1,0 +1,17 @@
+Gate		KEYWORD1
+gate		KEYWORD2
+stop		KEYWORD2
+waitForGate	KEYWORD2
+delayForGate	KEYWORD2
+magnet		KEYWORD2
+Magnet		KEYWORD2
+OTAStart		KEYWORD2
+WiFiStart	KEYWORD2
+ledStrip		KEYWORD2
+LEDStrip		KEYWORD2
+begin		KEYWORD2
+calcDist		KEYWORD2
+WFGFunction	KEYWORD2
+serial		KEYWORD2
+Distance		KEYWORD3
+emergencyStop	KEYWORD3
