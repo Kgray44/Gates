@@ -4,13 +4,13 @@
 
 ### Description
 
-The begin() function is used to setup the pins for controlling motor drivers / linear actuators.  
+The `begin()` function is used to setup the pins for controlling motor drivers / linear actuators.  
 
 
 ### Syntax
-
+```
 Gate.begin(int pin1, int pin2, int pin3, int pin4, int direction);
-
+```
 
 ### Definition
 
